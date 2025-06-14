@@ -12,7 +12,7 @@ CiberSafe es una página web educativa creada con HTML que tiene como objetivo c
 ## ¿Dónde verla?
 
 ¡Podés visitar la página en este enlace!:  
-👉 [https://Vickyy9876.github.io/Cibersafe/](https://TU-USUARIO.github.io/Cibersafe/)  
+👉 (https://github.com/Vickyy9876/Cibersafe.git)
 
 ##  Tecnologías usadas
 
